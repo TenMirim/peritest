@@ -1,0 +1,21 @@
+"1":{
+    "name": "Can Can Hero",
+    "author": "faiface",
+    "releaseDate": "2020-3-21 18:00",
+    "version":"0.0.1",
+    "slug":"cancan"
+},
+"2":{
+    "name": "Corazon",
+    "author": "misof",
+    "releaseDate": "2020-3-23 12:00",
+    "version":"alpha",
+    "slug":"corazon"
+}
+"3":{
+    "name": "Padajuce jablka",
+    "author": "Matus250",
+    "releaseDate": "2020-3-19 20:00",
+    "version":"1.0.0",
+    "slug":"padajucejablka"
+}
